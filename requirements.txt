@@ -1,0 +1,8 @@
+torch
+torchvision
+colorama
+opencv-python
+pycocotools
+matplotlib
+streamlit
+altair==4
